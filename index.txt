@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the update line of this file which i am  about to run.
+=======
+This is the upadetd line on this file, this is totaly new.
+>>>>>>> dashboard
